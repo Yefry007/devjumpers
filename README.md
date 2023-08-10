@@ -27,3 +27,6 @@ Se añade el fichero 2.txt a la rama v0.2 con el comando "touch 2.txt"
 ![Alt text](image-11.png)
 Se suben los cambios hechos hasta el momento
 ![Alt text](image-12.png)
+Se fusiona la rama v0.2 con la main utilizando el comando "git merge v0.2", Se debe estar en la rama main para realizar esto
+![Alt text](image-13.png)
+
