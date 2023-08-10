@@ -25,3 +25,5 @@ Se cambia de rama
 ![Alt text](image-10.png)
 Se añade el fichero 2.txt a la rama v0.2 con el comando "touch 2.txt"
 ![Alt text](image-11.png)
+Se suben los cambios hechos hasta el momento
+![Alt text](image-12.png)
