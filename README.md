@@ -33,3 +33,9 @@ Se realiza una fusion de ramas con un merge en conflicto
 ![Alt text](image-14.png)
 Se cancela el merge con el comando "git merge --abort"
 ![Alt text](image-15.png)
+Se soluciona el errorn del merge, al hacer commit en ambas ramas, subir los cambios y fusionar
+![Alt text](image-16.png)
+Se borra la rama v0.2, con el comando "git branch -d v0.2"
+![Alt text](image-17.png)
+listar los cambios 
+![Alt text](image-18.png)
