@@ -29,4 +29,7 @@ Se suben los cambios hechos hasta el momento
 ![Alt text](image-12.png)
 Se fusiona la rama v0.2 con la main utilizando el comando "git merge v0.2", Se debe estar en la rama main para realizar esto
 ![Alt text](image-13.png)
-
+Se realiza una fusion de ramas con un merge en conflicto 
+![Alt text](image-14.png)
+Se cancela el merge con el comando "git merge --abort"
+![Alt text](image-15.png)
